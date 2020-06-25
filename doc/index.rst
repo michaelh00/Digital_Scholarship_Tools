@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Data Science Tools documentation!
-==============================================
+Welcome to the Data Science Tools documentation!
+================================================
 
 .. toctree::
    :maxdepth: 2
@@ -16,8 +16,6 @@ Welcome to Data Science Tools documentation!
 
    Usage
 
-   Documents
+   Topics and Documents
 
    Credits
-
-   

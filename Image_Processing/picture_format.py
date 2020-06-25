@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# UB Bern Digitale Toolbox  
+# Data Science Toolbox  
 # 2020  
 # Autor: Michael Horn
 
@@ -561,9 +561,15 @@ with open(save_path + "digits_0-9.csv", "w", newline="") as f:
 # In[30]:
 
 
-pd.read_csv(save_path + "digits_0-9.csv", header = None, 
-            names = ["px1", "px2", "px3", "px4", "px5", "px6", "px7", 
-                     "px8", "px9", "px10", "px11", "px12", "px13", "px14", "px15"])
+df = pd.read_csv(save_path + "digits_0-9.csv", header = None, 
+                 names = ["px1", "px2", "px3", "px4", "px5", "px6", "px7", 
+                          "px8", "px9", "px10", "px11", "px12", "px13", "px14", "px15"])            
+
+
+# In[31]:
+
+
+df
 
 
 # Wir sehen also, wie wir den Informationsgehalt von Bildern (d.h. die Pixelwerte und deren Position im Bild) in eine Tabellenform bringen können. Solche tabellarischen Formate können für die weitere Datenanalyse sehr nützlich sein, beispielsweise wenn man Datensätze für maschinelles Lernen verwenden möchte.
@@ -572,7 +578,7 @@ pd.read_csv(save_path + "digits_0-9.csv", header = None,
 
 # Schliesslich zeigen wir noch, dass die im .csv-Format gespeicherten Pixelwerte sehr einfach in Arrays zurückverwandelt und als Bilder visualisiert werden können:
 
-# In[31]:
+# In[32]:
 
 
 data_file = open(save_path + "digits_0-9.csv", "r")
@@ -582,7 +588,7 @@ data_file.close()
 
 # Für den ersten Datenpunkt im .csv-File:
 
-# In[32]:
+# In[33]:
 
 
 data_element_0 = data_list[0].split(",")
@@ -594,7 +600,7 @@ plt.show()
 
 # Für alle Datenpunkte im .csv-File:
 
-# In[33]:
+# In[34]:
 
 
 plt.figure(figsize=(17,10))
