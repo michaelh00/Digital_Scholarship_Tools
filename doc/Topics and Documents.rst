@@ -34,7 +34,8 @@ The code documentation in this document is in German.
 
 Data Visualization
 ------------------
-The document "basic_data_visualization.ipynb" illustrates the following procedures:
+The document "basic_data_visualization.ipynb" illustrates the following procedures:  
+
 - how to generate data using mathematical functions
 - how to plot this data using matplotlib
 - how to change default plotting options
