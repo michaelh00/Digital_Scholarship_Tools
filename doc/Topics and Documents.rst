@@ -43,10 +43,10 @@ The document "basic_data_visualization.ipynb" illustrates the following procedur
 
 Here an example of plotted mathematical functions: 
 
-.. image:: function_plot.png  
+.. image:: function.png
 
 Here an example of plotted data with several attributes (the Iris dataset in this case):
 
-.. image:: iris_plot.png
+.. image:: iris_pairplot.png
 
 The code documentation in this document is in English.
