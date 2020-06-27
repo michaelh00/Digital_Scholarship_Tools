@@ -19,7 +19,7 @@ The document "picture_format.ipynb" illustrates the following procedures:
 - how to read them as pandas dataframes
 
 
-Here an example of some generated images (digits in this case):
+Here an example of images generated in this document (digits in this case):
 
 .. image:: digits.png
 
@@ -28,9 +28,24 @@ Here an example of the data content of these images in table format
 
 .. image:: data_table.png
 
-The code documentation in this notebook is in German.
+The code documentation in this document is in German.
 
 |
 
 Data Visualization
 ------------------
+The document "basic_data_visualization.ipynb" illustrates the following procedures:
+- how to generate data using mathematical functions
+- how to plot this data using matplotlib
+- how to change default plotting options
+- how to visualize data with several attributes using seaborn
+
+Here an example of plotted mathematical functions: 
+
+.. image:: function_plot.png  
+
+Here an example of plotted data with several attributes (the Iris dataset in this case):
+
+.. image:: iris_plot.png
+
+The code documentation in this document is in English.
