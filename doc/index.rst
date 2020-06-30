@@ -6,6 +6,8 @@
 Welcome to the Data Science Tools documentation!
 ================================================
 
+This documentation refers to Michael's `Data_Science_Tools Repository <https://github.com/michaelh00/Data_Science_Tools>`_ on Github.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

@@ -10,7 +10,8 @@ So far, there are two topics included in this repository:
 
 Image Processing
 ----------------
-The document "picture_format.ipynb" illustrates the following procedures:
+The document `picture_format.ipynb <https://github.com/michaelh00/Data_Science_Tools/blob/master/Image_Processing/picture_format.ipynb>`_ 
+illustrates the following procedures:
 
 - how to generate images with numpy arrays
 - how to save them in .png format
@@ -34,7 +35,8 @@ The code documentation in this document is in German.
 
 Data Visualization
 ------------------
-The document "basic_data_visualization.ipynb" illustrates the following procedures:  
+The document `basic_data_visualization.ipynb <https://github.com/michaelh00/Data_Science_Tools/blob/master/Data_Visualization/basic_data_visualization.ipynb>`_ 
+illustrates the following procedures:
 
 - how to generate data using mathematical functions
 - how to plot this data using matplotlib
