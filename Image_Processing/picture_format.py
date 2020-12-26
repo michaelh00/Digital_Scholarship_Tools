@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Data Science Toolbox  
+# Digital Scholarship Tools  
 # 2020  
 # Autor: Michael Horn
 
@@ -426,7 +426,7 @@ plt.show()
 # In[20]:
 
 
-save_path = "/Users/Michael/Anaconda3/Jupiter_Notebooks/Toolbox/Data_Formats/Picture_Formats_Data/"
+save_path = "/Users/Michael/Documents/GitHub/Digital_Scholarship_Tools/Image_Processing/Digit_Images/"
 
 
 # Mit einer Python-Library zur Bildbearbearbeitung können wir die erzeugten Arrays als Bilder speichern und wieder laden.
