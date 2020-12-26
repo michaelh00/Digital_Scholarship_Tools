@@ -78,3 +78,6 @@ Pairplot
 .. image:: iris_pairplot.png
 
 The code documentation in this document is in English.
+
+|
+
