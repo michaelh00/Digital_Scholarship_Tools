@@ -11,3 +11,7 @@ So far, it covers two topics:
 - data visualization
 
  More tools are in preparation.
+
+ ---
+
+ A more detailed documentation regarding this repository can be found at [Read the Docs](https://digital-scholarship-tools.readthedocs.io/en/latest/index.html).
