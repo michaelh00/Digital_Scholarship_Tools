@@ -61,14 +61,12 @@ Here some examples:
 Scatterplot
 ^^^^^^^^^^^^
 .. image:: iris_scatterplot.png
-   :scale: 80 %
 
 |
 
 Boxplot
 ^^^^^^^^
 .. image:: iris_boxplot.png
-   :scale: 80 %
 
 |
 
