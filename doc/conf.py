@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Data Science Tools'
+project = 'Digital Scholarship Tools'
 copyright = '2020, Michael Horn'
 author = 'Michael Horn'
 
