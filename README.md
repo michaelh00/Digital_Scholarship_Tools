@@ -10,7 +10,7 @@ So far, it covers two topics:
 - image processing
 - data visualization
 
- More tools are in preparation...
+ More tools are in preparation.
 
  ---
 
